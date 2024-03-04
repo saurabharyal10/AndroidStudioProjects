@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SignupActivity">
+
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:id="@+id/lytCheckbox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="parent">
+
+            <TextView
+                android:id="@+id/txtSignUp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:fontFamily="casual"
+                android:padding="42dp"
+                android:text="Sign Up Page"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="40sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            // Username
+
+            <TextView
+                android:id="@+id/txtUsername"
+                android:layout_width="136dp"
+                android:layout_height="53dp"
+                android:layout_marginStart="36dp"
+                android:layout_marginTop="27dp"
+                android:paddingTop="10dp"
+                android:text="UserName"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="24sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/txtSignUp" />
+
+            <EditText
+                android:id="@+id/editUsername"
+                android:layout_width="168dp"
+                android:layout_height="53dp"
+                android:layout_marginStart="27dp"
+                android:hint="UserName"
+                android:paddingTop="10dp"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="24sp"
+                app:layout_constraintStart_toEndOf="@id/txtUsername"
+                app:layout_constraintTop_toTopOf="@id/txtUsername" />
+
+
+            // Password
+
+            <TextView
+                android:id="@+id/txtPassword"
+                android:layout_width="136dp"
+                android:layout_height="53dp"
+                android:layout_marginStart="36dp"
+                android:layout_marginTop="28dp"
+                android:paddingTop="10dp"
+                android:text="Password"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="24sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/txtUsername" />
+
+            <EditText
+                android:id="@+id/editPassword"
+                android:layout_width="168dp"
+                android:layout_height="53dp"
+                android:layout_marginStart="24dp"
+                android:layout_marginTop="28dp"
+                android:hint="Password"
+                android:paddingTop="10dp"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="24sp"
+                app:layout_constraintStart_toEndOf="@+id/txtPassword"
+                app:layout_constraintTop_toBottomOf="@+id/editUsername" />
+
+
+            // ConfirmPassword
+
+            <TextView
+                android:id="@+id/txtConfirmPassword"
+                android:layout_width="136dp"
+                android:layout_height="68dp"
+                android:layout_marginStart="36dp"
+                android:layout_marginTop="28dp"
+                android:text="Confirm Password"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="24sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/txtPassword" />
+
+            <EditText
+                android:id="@+id/editConfirmPassword"
+                android:layout_width="168dp"
+                android:layout_height="68dp"
+                android:layout_marginStart="24dp"
+                android:layout_marginTop="28dp"
+                android:hint="Confirm Password"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="24sp"
+                app:layout_constraintStart_toEndOf="@+id/txtConfirmPassword"
+                app:layout_constraintTop_toBottomOf="@+id/editPassword" />
+
+
+            //Gender
+
+            <TextView
+                android:id="@+id/txtGender"
+                android:layout_width="136dp"
+                android:layout_height="53dp"
+                android:layout_marginStart="36dp"
+                android:layout_marginTop="28dp"
+                android:text="Gender"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="24sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/txtConfirmPassword" />
+
+            <RadioGroup
+                android:id="@+id/radioGroup"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24dp"
+                android:layout_marginTop="28dp"
+                android:checkedButton="@id/rdMale"
+                app:layout_constraintStart_toEndOf="@id/txtGender"
+                app:layout_constraintTop_toBottomOf="@id/editConfirmPassword">
+
+                <RadioButton
+                    android:id="@+id/rdMale"
+                    android:layout_width="168dp"
+                    android:layout_height="53dp"
+                    android:text="Male"
+                    android:textColor="@color/black"
+                    android:textSize="24sp"
+                    app:layout_constraintStart_toEndOf="@id/txtGender"
+                    app:layout_constraintTop_toBottomOf="@id/editConfirmPassword" />
+
+                <RadioButton
+                    android:id="@+id/rdFemale"
+                    android:layout_width="168dp"
+                    android:layout_height="53dp"
+                    android:text="Female"
+                    android:textColor="@color/black"
+                    android:textSize="24sp"
+                    app:layout_constraintStart_toEndOf="@id/rdMale"
+                    app:layout_constraintTop_toBottomOf="@id/editConfirmPassword" />
+            </RadioGroup>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hobbies"
+                android:textColor="@color/black" />
+
+            <CheckBox
+                android:id="@+id/chkCoding"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Coding"
+                android:textColor="@color/black" />
+
+            <CheckBox
+                android:id="@+id/chkDesigning"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Designing"
+                android:textColor="@color/black" />
+
+            <CheckBox
+                android:id="@+id/chkQA"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="QA"
+                android:textColor="@color/black" />
+
+
+            <androidx.appcompat.widget.AppCompatSpinner
+                android:id="@+id/spnCountry"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            //ContactNo
+
+            <TextView
+                android:id="@+id/txtContactNo"
+                android:layout_width="136dp"
+                android:layout_height="53dp"
+                android:layout_marginStart="36dp"
+                android:layout_marginTop="62dp"
+                android:paddingTop="10dp"
+                android:text="Contact No."
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="24sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/txtGender" />
+
+            <EditText
+                android:id="@+id/editContactNo"
+                android:layout_width="168dp"
+                android:layout_height="53dp"
+                android:layout_marginStart="27dp"
+                android:layout_marginTop="10dp"
+                android:hint="Contact No."
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="24sp"
+                app:layout_constraintStart_toEndOf="@id/txtContactNo"
+                app:layout_constraintTop_toBottomOf="@+id/radioGroup" />
+
+
+            //Button
+
+            <Button
+                android:id="@+id/btnSignUp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="80dp"
+                android:layout_marginEnd="80dp"
+                android:background="@color/Grey"
+                android:text="Sign Up"
+                android:textSize="24dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/editContactNo" />
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+</LinearLayout>

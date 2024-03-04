@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@drawable/background_image"
+    android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/layoutToolbar"
+        android:background="@color/Grey"
+        android:layout_height="54dp"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        android:layout_width="match_parent"/>
+
+
+<!--    <LinearLayout-->
+<!--        android:id="@+id/layoutToolbar"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="54dp"-->
+<!--        android:background="@color/black"-->
+<!--        android:paddingStart="10dp"-->
+<!--        android:paddingEnd="10dp"-->
+<!--        android:orientation="horizontal">-->
+
+<!--        <ImageView-->
+<!--            android:layout_width="30dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:src="@drawable/insta_icon">-->
+
+<!--        </ImageView>-->
+<!--        <ImageView-->
+<!--            android:layout_width="30dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_weight="1"-->
+<!--            android:src="@drawable/logo_toolbar">-->
+
+<!--        </ImageView>-->
+<!--        <ImageView-->
+<!--            android:layout_width="30dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:src="@drawable/insta_icon">-->
+<!--        </ImageView>-->
+
+<!--    </LinearLayout>-->
+    <TextView
+        android:layout_below="@id/layoutToolbar"
+        android:id="@+id/txtWelcome"
+        android:textSize="36dp"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:text="Welcome to BCA 6th Semester"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/txtLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtWelcome"
+        android:layout_centerHorizontal="true"
+        android:padding="45dp"
+        android:text="Login To The System"
+        android:textAlignment="center"
+        android:fontFamily="casual"
+        android:textColor="@color/white"
+        android:textSize="40sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <EditText
+            android:id="@+id/editUsername"
+            android:layout_width="310dp"
+            android:layout_height="85dp"
+            android:hint="Enter Username"
+            android:background="@drawable/edittext_background"
+            android:padding="20dp"
+            android:textColor="@android:color/white"
+            android:textColorHint="@color/white"
+            android:layout_below="@+id/txtLogin"
+            android:layout_marginTop="312dp"
+            android:layout_marginLeft="50dp"
+            android:fontFamily="monospace"
+            android:textSize="28sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <EditText
+            android:id="@+id/editPassword"
+            android:layout_width="310dp"
+            android:layout_height="85dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="410dp"
+            android:background="@drawable/edittext_background"
+            android:fontFamily="monospace"
+            android:hint="Enter Password"
+            android:padding="20dp"
+            android:textColor="@android:color/white"
+            android:textColorHint="@color/white"
+            android:textSize="28sp" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="121dp"
+        android:layout_marginTop="521dp"
+        android:background="@drawable/button_bg"
+        android:paddingBottom="10dp"
+        android:text="Log In"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:textSize="42sp" />
+
+    <Button
+        android:id="@+id/btnSignUp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="121dp"
+        android:layout_marginTop="610dp"
+        android:background="@drawable/button_bg"
+        android:paddingBottom="10dp"
+        android:text="Sign Up"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:textSize="42sp" />
+
+    <TextView
+        android:id="@+id/txtPreview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:layout_below="@id/btnLogin"
+        android:layout_margin="96dp"
+        android:textColor="@color/white" />
+
+</RelativeLayout>
