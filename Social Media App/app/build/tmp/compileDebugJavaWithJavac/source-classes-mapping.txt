@@ -1,0 +1,66 @@
+com/neatroots/samplesocial/databinding/SampleBinding.java
+ com.neatroots.samplesocial.databinding.SampleBinding
+com/neatroots/samplesocial/FriendsAdapter.java
+ com.neatroots.samplesocial.FriendsAdapter
+ com.neatroots.samplesocial.FriendsAdapter$viewHolder
+com/neatroots/samplesocial/NotificationModel.java
+ com.neatroots.samplesocial.NotificationModel
+com/neatroots/samplesocial/SearchFragment.java
+ com.neatroots.samplesocial.SearchFragment
+com/neatroots/samplesocial/RequestFrag.java
+ com.neatroots.samplesocial.RequestFrag
+com/neatroots/samplesocial/databinding/DashboardRvDesignBinding.java
+ com.neatroots.samplesocial.databinding.DashboardRvDesignBinding
+com/neatroots/samplesocial/databinding/FragmentSearchBinding.java
+ com.neatroots.samplesocial.databinding.FragmentSearchBinding
+com/neatroots/samplesocial/FriendsModel.java
+ com.neatroots.samplesocial.FriendsModel
+com/neatroots/samplesocial/databinding/ActivityMainBinding.java
+ com.neatroots.samplesocial.databinding.ActivityMainBinding
+com/neatroots/samplesocial/databinding/FragmentNotificationBinding.java
+ com.neatroots.samplesocial.databinding.FragmentNotificationBinding
+com/neatroots/samplesocial/databinding/FragmentNotification2Binding.java
+ com.neatroots.samplesocial.databinding.FragmentNotification2Binding
+com/neatroots/samplesocial/DashboardModel.java
+ com.neatroots.samplesocial.DashboardModel
+com/neatroots/samplesocial/databinding/FragmentProfile2Binding.java
+ com.neatroots.samplesocial.databinding.FragmentProfile2Binding
+com/neatroots/samplesocial/StoryAdapter.java
+ com.neatroots.samplesocial.StoryAdapter
+ com.neatroots.samplesocial.StoryAdapter$viewHolder
+com/neatroots/samplesocial/databinding/FragmentHomeBinding.java
+ com.neatroots.samplesocial.databinding.FragmentHomeBinding
+com/neatroots/samplesocial/databinding/FriendsRvDesignBinding.java
+ com.neatroots.samplesocial.databinding.FriendsRvDesignBinding
+com/neatroots/samplesocial/NotificationFrag.java
+ com.neatroots.samplesocial.NotificationFrag
+com/neatroots/samplesocial/databinding/FragmentRequestBinding.java
+ com.neatroots.samplesocial.databinding.FragmentRequestBinding
+com/neatroots/samplesocial/databinding/NotificationRvDesignBinding.java
+ com.neatroots.samplesocial.databinding.NotificationRvDesignBinding
+com/neatroots/samplesocial/FragmentAdapter.java
+ com.neatroots.samplesocial.FragmentAdapter
+com/neatroots/samplesocial/NotificationAdapter.java
+ com.neatroots.samplesocial.NotificationAdapter
+ com.neatroots.samplesocial.NotificationAdapter$viewHolder
+com/neatroots/samplesocial/databinding/StoryRvDesignBinding.java
+ com.neatroots.samplesocial.databinding.StoryRvDesignBinding
+com/neatroots/samplesocial/NotificationFragment.java
+ com.neatroots.samplesocial.NotificationFragment
+com/neatroots/samplesocial/DashboardAdapter.java
+ com.neatroots.samplesocial.DashboardAdapter
+ com.neatroots.samplesocial.DashboardAdapter$1
+ com.neatroots.samplesocial.DashboardAdapter$2
+ com.neatroots.samplesocial.DashboardAdapter$viewHolder
+com/neatroots/samplesocial/StoryModel.java
+ com.neatroots.samplesocial.StoryModel
+com/neatroots/samplesocial/BuildConfig.java
+ com.neatroots.samplesocial.BuildConfig
+com/neatroots/samplesocial/HomeFragment.java
+ com.neatroots.samplesocial.HomeFragment
+ com.neatroots.samplesocial.HomeFragment$1
+com/neatroots/samplesocial/MainActivity.java
+ com.neatroots.samplesocial.MainActivity
+ com.neatroots.samplesocial.MainActivity$1
+com/neatroots/samplesocial/Profile2Fragment.java
+ com.neatroots.samplesocial.Profile2Fragment
