@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_black.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\font\\roboto_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\font_amaranth_bold.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\font\\amaranth_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_magnifier.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\ic_magnifier.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_story_rv_design.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\layout\\story_rv_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_bg.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\toolbar_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dennis_kane.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\dennis_kane.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\xml_nav_item.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\xml\\nav_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nature1.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\nature1.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notification.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\ic_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_art.jpg.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\art.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_rv_design.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\layout\\notification_rv_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dennis.jpg.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\dennis.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_request.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\layout\\fragment_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile2.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\layout\\fragment_profile2.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.jpg.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\profile.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_item.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\menu\\menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_saved.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\saved.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shade.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\shade.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_man.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\man.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\font_baloo.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\font\\baloo.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_like.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\ic_like.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cover.jpg.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\cover.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_more.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\more.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\font_arbutus.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\font\\arbutus.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_dashboard_rv_design.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\layout\\dashboard_rv_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_like_red.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\ic_like_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_circle.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\white_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_like.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\like.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile1.jpg.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\profile1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone_call.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\ic_phone_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_new_hope.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\new_hope.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bookmark.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\ic_bookmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_video_camera.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\ic_video_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_original.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\original.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nature.jpg.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\nature.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_search.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_more.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\ic_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checked.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\checked.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_comment.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\ic_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\layout\\sample.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_friends_rv_design.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\layout\\friends_rv_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_user.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nature_dordogne.jpg.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\nature_dordogne.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_deaf.jpg.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\deaf.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_orange_circle.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\orange_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_thin.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\font\\roboto_thin.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notification2.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\layout\\fragment_notification2.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_man1.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\man1.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_screenshot.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\screenshot.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\font_acme.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\font\\acme.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_plus.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\ic_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_live.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\ic_live.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_friend.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\ic_add_friend.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chat.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\ic_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hipster.jpg.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\hipster.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notification.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\layout\\fragment_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_black_shade.xml.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\drawable\\black_shade.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]

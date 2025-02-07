@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\friends_rv_design.xml",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\layout\\friends_rv_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dashboard_rv_design.xml",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\layout\\dashboard_rv_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_request.xml",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\layout\\fragment_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\notification_rv_design.xml",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\layout\\notification_rv_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\sample.xml",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\layout\\sample.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_notification.xml",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\layout\\fragment_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_search.xml",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_profile2.xml",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\layout\\fragment_profile2.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_notification2.xml",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\layout\\fragment_notification2.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\story_rv_design.xml",
+        "source": "C:\\Users\\pc\\Desktop\\Amin Work\\SampleSocial\\app\\src\\main\\res\\layout\\story_rv_design.xml"
+    }
+]
